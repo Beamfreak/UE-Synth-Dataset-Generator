@@ -1,0 +1,36 @@
+{
+  "Object=Taxi_C": {
+    "car": {
+      "unknown": 18,
+      "car": 4,
+      "cabinet": 1,
+      "trash bin": 1
+    }
+  },
+  "Object=FighterJet_C": {
+    "airplane": {
+      "airplane": 3,
+      "unknown": 20,
+      "rocket": 1
+    }
+  },
+  "Object=PasPlane_C": {
+    "airplane": {
+      "unknown": 19,
+      "watercraft": 3,
+      "trash bin": 1,
+      "rocket": 1
+    }
+  },
+  "Object=Pistol-1_C": {
+    "pistol": {
+      "unknown": 18,
+      "pistol": 6
+    }
+  },
+  "Object=Guitar-1_C": {
+    "guitar": {
+      "unknown": 24
+    }
+  }
+}

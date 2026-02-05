@@ -1,0 +1,1442 @@
+[
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "FighterJet_C",
+      "PasPlane_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "FighterJet_C",
+      "PasPlane_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "PasPlane_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Taxi_C",
+      "Pistol-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Taxi_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C",
+      "PasPlane_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M0_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Guitar-1_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M1_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Guitar-1_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M2_F0.png",
+    "object": "Taxi_C",
+    "predictions": [
+      "Taxi_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M0_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M1_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M2_F0.png",
+    "object": "FighterJet_C",
+    "predictions": [
+      "FighterJet_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "Guitar-1_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M0_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M1_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M2_F0.png",
+    "object": "PasPlane_C",
+    "predictions": [
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Pistol-1_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Guitar-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M0_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "FighterJet_C",
+      "PasPlane_C",
+      "Guitar-1_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M1_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Guitar-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "Guitar-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M2_F0.png",
+    "object": "Pistol-1_C",
+    "predictions": [
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C",
+      "Guitar-1_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M0_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M1_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "PasPlane_C",
+      "Pistol-1_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "Taxi_C",
+      "FighterJet_C"
+    ],
+    "hit": true
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M2_F0.png",
+    "object": "Guitar-1_C",
+    "predictions": [
+      "Guitar-1_C",
+      "Pistol-1_C",
+      "PasPlane_C",
+      "FighterJet_C",
+      "Taxi_C"
+    ],
+    "hit": true
+  }
+]

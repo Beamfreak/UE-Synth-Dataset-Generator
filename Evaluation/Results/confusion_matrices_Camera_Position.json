@@ -1,0 +1,70 @@
+{
+  "Camera Position=X=0.000 Y=1.000 Z=0.200": {
+    "car": {
+      "unknown": 5,
+      "car": 1
+    },
+    "airplane": {
+      "airplane": 3,
+      "unknown": 6,
+      "watercraft": 2,
+      "trash bin": 1
+    },
+    "pistol": {
+      "unknown": 6
+    },
+    "guitar": {
+      "unknown": 6
+    }
+  },
+  "Camera Position=X=0.000 Y=-1.000 Z=0.200": {
+    "car": {
+      "car": 2,
+      "unknown": 3,
+      "trash bin": 1
+    },
+    "airplane": {
+      "unknown": 9,
+      "watercraft": 1,
+      "rocket": 2
+    },
+    "pistol": {
+      "unknown": 6
+    },
+    "guitar": {
+      "unknown": 6
+    }
+  },
+  "Camera Position=X=1.000 Y=0.000 Z=0.200": {
+    "car": {
+      "unknown": 6
+    },
+    "airplane": {
+      "unknown": 12
+    },
+    "pistol": {
+      "pistol": 3,
+      "unknown": 3
+    },
+    "guitar": {
+      "unknown": 6
+    }
+  },
+  "Camera Position=X=-1.000 Y=0.000 Z=0.200": {
+    "car": {
+      "unknown": 4,
+      "car": 1,
+      "cabinet": 1
+    },
+    "airplane": {
+      "unknown": 12
+    },
+    "pistol": {
+      "pistol": 3,
+      "unknown": 3
+    },
+    "guitar": {
+      "unknown": 6
+    }
+  }
+}

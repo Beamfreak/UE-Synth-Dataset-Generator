@@ -1,0 +1,30 @@
+{
+  "Class=2958343": {
+    "car": {
+      "unknown": 18,
+      "car": 4,
+      "cabinet": 1,
+      "trash bin": 1
+    }
+  },
+  "Class=2691156": {
+    "airplane": {
+      "airplane": 3,
+      "unknown": 39,
+      "watercraft": 3,
+      "rocket": 2,
+      "trash bin": 1
+    }
+  },
+  "Class=3948459": {
+    "pistol": {
+      "unknown": 18,
+      "pistol": 6
+    }
+  },
+  "Class=3467517": {
+    "guitar": {
+      "unknown": 24
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Material=Default": {
+    "car": {
+      "unknown": 4,
+      "car": 4
+    },
+    "airplane": {
+      "airplane": 1,
+      "unknown": 11,
+      "watercraft": 1,
+      "rocket": 2,
+      "trash bin": 1
+    },
+    "pistol": {
+      "unknown": 6,
+      "pistol": 2
+    },
+    "guitar": {
+      "unknown": 8
+    }
+  },
+  "Material=MI_Pattern_10_bumpy": {
+    "car": {
+      "unknown": 7,
+      "cabinet": 1
+    },
+    "airplane": {
+      "airplane": 1,
+      "unknown": 14,
+      "watercraft": 1
+    },
+    "pistol": {
+      "unknown": 6,
+      "pistol": 2
+    },
+    "guitar": {
+      "unknown": 8
+    }
+  },
+  "Material=MI_Grass_spotty": {
+    "car": {
+      "unknown": 7,
+      "trash bin": 1
+    },
+    "airplane": {
+      "airplane": 1,
+      "unknown": 14,
+      "watercraft": 1
+    },
+    "pistol": {
+      "unknown": 6,
+      "pistol": 2
+    },
+    "guitar": {
+      "unknown": 8
+    }
+  }
+}

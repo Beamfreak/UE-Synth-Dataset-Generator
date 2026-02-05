@@ -1,0 +1,6 @@
+{
+  "model": "resnet50.a1_in1k",
+  "mode": "logits",
+  "overall_accuracy": 0.03333333333333333,
+  "n": 120
+}

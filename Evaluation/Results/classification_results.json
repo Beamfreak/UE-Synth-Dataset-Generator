@@ -1,0 +1,4682 @@
+[
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "jeep",
+        "prob": 0.7755270600318909
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.06973199546337128
+      },
+      {
+        "label": "seashore",
+        "prob": 0.06897161900997162
+      },
+      {
+        "label": "minivan",
+        "prob": 0.013858186081051826
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.009090756997466087
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": "car",
+    "predictions": [
+      {
+        "label": "racer",
+        "prob": 0.25630754232406616
+      },
+      {
+        "label": "sports_car",
+        "prob": 0.1729283481836319
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.17188845574855804
+      },
+      {
+        "label": "cab",
+        "prob": 0.08865634351968765
+      },
+      {
+        "label": "seashore",
+        "prob": 0.05832087621092796
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.28565865755081177
+      },
+      {
+        "label": "wing",
+        "prob": 0.2635534405708313
+      },
+      {
+        "label": "jeep",
+        "prob": 0.11107698082923889
+      },
+      {
+        "label": "racer",
+        "prob": 0.04430604353547096
+      },
+      {
+        "label": "warplane",
+        "prob": 0.03880072757601738
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.3824959993362427
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.31557518243789673
+      },
+      {
+        "label": "seashore",
+        "prob": 0.046223778277635574
+      },
+      {
+        "label": "warplane",
+        "prob": 0.03275254741311073
+      },
+      {
+        "label": "convertible",
+        "prob": 0.020457960665225983
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "jeep",
+        "prob": 0.8715006113052368
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.06458410620689392
+      },
+      {
+        "label": "tripod",
+        "prob": 0.024129493162035942
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0040833051316440105
+      },
+      {
+        "label": "loudspeaker",
+        "prob": 0.00400584889575839
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "jeep",
+        "prob": 0.6008065938949585
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.1626473069190979
+      },
+      {
+        "label": "amphibian",
+        "prob": 0.034871309995651245
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.02157304435968399
+      },
+      {
+        "label": "seashore",
+        "prob": 0.02124728634953499
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.7925391793251038
+      },
+      {
+        "label": "jeep",
+        "prob": 0.04809240996837616
+      },
+      {
+        "label": "tractor",
+        "prob": 0.037488728761672974
+      },
+      {
+        "label": "seashore",
+        "prob": 0.027555035427212715
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.02051551826298237
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.8359095454216003
+      },
+      {
+        "label": "seashore",
+        "prob": 0.07286626100540161
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.006786931771785021
+      },
+      {
+        "label": "hourglass",
+        "prob": 0.0064424495212733746
+      },
+      {
+        "label": "komondor",
+        "prob": 0.0049600750207901
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.3918638825416565
+      },
+      {
+        "label": "jeep",
+        "prob": 0.3645438253879547
+      },
+      {
+        "label": "seashore",
+        "prob": 0.06404050439596176
+      },
+      {
+        "label": "tripod",
+        "prob": 0.024187367409467697
+      },
+      {
+        "label": "car_mirror",
+        "prob": 0.013181507587432861
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C0_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "lakeside",
+        "prob": 0.2887018918991089
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.28210726380348206
+      },
+      {
+        "label": "broccoli",
+        "prob": 0.15204231441020966
+      },
+      {
+        "label": "seashore",
+        "prob": 0.09633619338274002
+      },
+      {
+        "label": "conch",
+        "prob": 0.05183698236942291
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C1_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "seashore",
+        "prob": 0.5918610692024231
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.32651400566101074
+      },
+      {
+        "label": "parachute",
+        "prob": 0.011345623061060905
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.00697182584553957
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.006415474694222212
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C2_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.6009986996650696
+      },
+      {
+        "label": "seashore",
+        "prob": 0.21037457883358002
+      },
+      {
+        "label": "beer_bottle",
+        "prob": 0.016991009935736656
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.011741225607693195
+      },
+      {
+        "label": "wing",
+        "prob": 0.011289800517261028
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/Desert_A/Desert_A_Taxi_C_0_C3_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "Desert_A",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "airplane",
+    "predictions": [
+      {
+        "label": "warplane",
+        "prob": 0.9934338331222534
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0016318154521286488
+      },
+      {
+        "label": "projectile",
+        "prob": 0.0008699530735611916
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.0004303201276343316
+      },
+      {
+        "label": "wing",
+        "prob": 0.0004100207006558776
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.8027212619781494
+      },
+      {
+        "label": "hammerhead",
+        "prob": 0.07423263788223267
+      },
+      {
+        "label": "warplane",
+        "prob": 0.053192563354969025
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.014349355362355709
+      },
+      {
+        "label": "starfish",
+        "prob": 0.012722265906631947
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.9517967104911804
+      },
+      {
+        "label": "warplane",
+        "prob": 0.02251122146844864
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.0133668789640069
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0028905225917696953
+      },
+      {
+        "label": "great_white_shark",
+        "prob": 0.0009517607395537198
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.8030998706817627
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.16747957468032837
+      },
+      {
+        "label": "warplane",
+        "prob": 0.01310575008392334
+      },
+      {
+        "label": "seashore",
+        "prob": 0.004562392830848694
+      },
+      {
+        "label": "parachute",
+        "prob": 0.0008207107312045991
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "airplane",
+    "predictions": [
+      {
+        "label": "warplane",
+        "prob": 0.633834958076477
+      },
+      {
+        "label": "seashore",
+        "prob": 0.1305357962846756
+      },
+      {
+        "label": "dingo",
+        "prob": 0.04495861381292343
+      },
+      {
+        "label": "pelican",
+        "prob": 0.024828044697642326
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.019456056877970695
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "starfish",
+        "prob": 0.8056439161300659
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.038354381918907166
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.03331102803349495
+      },
+      {
+        "label": "seashore",
+        "prob": 0.018202565610408783
+      },
+      {
+        "label": "banded_gecko",
+        "prob": 0.015602086670696735
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "seashore",
+        "prob": 0.2785549461841583
+      },
+      {
+        "label": "harvester",
+        "prob": 0.2657298147678375
+      },
+      {
+        "label": "tractor",
+        "prob": 0.24441169202327728
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.08331038057804108
+      },
+      {
+        "label": "plow",
+        "prob": 0.0253327414393425
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "seashore",
+        "prob": 0.3240770995616913
+      },
+      {
+        "label": "wing",
+        "prob": 0.26170238852500916
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.25914135575294495
+      },
+      {
+        "label": "warplane",
+        "prob": 0.0312142726033926
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.023676272481679916
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "airplane",
+    "predictions": [
+      {
+        "label": "warplane",
+        "prob": 0.7787236571311951
+      },
+      {
+        "label": "seashore",
+        "prob": 0.12045718729496002
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.01805415190756321
+      },
+      {
+        "label": "wing",
+        "prob": 0.010308790020644665
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.008849740028381348
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C0_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "starfish",
+        "prob": 0.7453434467315674
+      },
+      {
+        "label": "wing",
+        "prob": 0.12356684356927872
+      },
+      {
+        "label": "warplane",
+        "prob": 0.023918332532048225
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.02065003663301468
+      },
+      {
+        "label": "grasshopper",
+        "prob": 0.01849295385181904
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C1_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "seashore",
+        "prob": 0.8419420719146729
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.03799804672598839
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.03378943353891373
+      },
+      {
+        "label": "West_Highland_white_terrier",
+        "prob": 0.024692386388778687
+      },
+      {
+        "label": "conch",
+        "prob": 0.004183986224234104
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C2_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.5904198288917542
+      },
+      {
+        "label": "seashore",
+        "prob": 0.16600848734378815
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.06791100651025772
+      },
+      {
+        "label": "West_Highland_white_terrier",
+        "prob": 0.04528597369790077
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.02013729326426983
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_FighterJet_C_0_C3_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "grey_whale",
+        "prob": 0.32217544317245483
+      },
+      {
+        "label": "killer_whale",
+        "prob": 0.2643764615058899
+      },
+      {
+        "label": "seashore",
+        "prob": 0.1294923573732376
+      },
+      {
+        "label": "submarine",
+        "prob": 0.04659126698970795
+      },
+      {
+        "label": "starfish",
+        "prob": 0.03500755876302719
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "watercraft",
+    "predictions": [
+      {
+        "label": "submarine",
+        "prob": 0.3934522867202759
+      },
+      {
+        "label": "paddle",
+        "prob": 0.18984535336494446
+      },
+      {
+        "label": "canoe",
+        "prob": 0.15532653033733368
+      },
+      {
+        "label": "wing",
+        "prob": 0.08234849572181702
+      },
+      {
+        "label": "warplane",
+        "prob": 0.04936637356877327
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.5760722756385803
+      },
+      {
+        "label": "hammerhead",
+        "prob": 0.30852222442626953
+      },
+      {
+        "label": "seashore",
+        "prob": 0.020795172080397606
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.01836761273443699
+      },
+      {
+        "label": "great_white_shark",
+        "prob": 0.009574025869369507
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.9641868472099304
+      },
+      {
+        "label": "warplane",
+        "prob": 0.017280487343668938
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.007284400053322315
+      },
+      {
+        "label": "hammerhead",
+        "prob": 0.0032657438423484564
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0012705527478829026
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "watercraft",
+    "predictions": [
+      {
+        "label": "submarine",
+        "prob": 0.7918136715888977
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0735863596200943
+      },
+      {
+        "label": "wreck",
+        "prob": 0.022120924666523933
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.017651284113526344
+      },
+      {
+        "label": "warplane",
+        "prob": 0.011662495322525501
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sea_snake",
+        "prob": 0.46428146958351135
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.16485030949115753
+      },
+      {
+        "label": "seashore",
+        "prob": 0.07733713835477829
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.0521511435508728
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.04791414365172386
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "seashore",
+        "prob": 0.5977213382720947
+      },
+      {
+        "label": "alligator_lizard",
+        "prob": 0.04159995913505554
+      },
+      {
+        "label": "green_lizard",
+        "prob": 0.034606870263814926
+      },
+      {
+        "label": "starfish",
+        "prob": 0.03374696522951126
+      },
+      {
+        "label": "whiptail",
+        "prob": 0.03203539177775383
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.6846299171447754
+      },
+      {
+        "label": "wing",
+        "prob": 0.13752737641334534
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0808209478855133
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.023706765845417976
+      },
+      {
+        "label": "worm_fence",
+        "prob": 0.004737315699458122
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "watercraft",
+    "predictions": [
+      {
+        "label": "submarine",
+        "prob": 0.47889983654022217
+      },
+      {
+        "label": "seashore",
+        "prob": 0.25845867395401
+      },
+      {
+        "label": "warplane",
+        "prob": 0.045033738017082214
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.044873692095279694
+      },
+      {
+        "label": "paddle",
+        "prob": 0.04434259608387947
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C0_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.7662177085876465
+      },
+      {
+        "label": "airliner",
+        "prob": 0.1288038045167923
+      },
+      {
+        "label": "warplane",
+        "prob": 0.027348142117261887
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.025507498532533646
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.007741133216768503
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C1_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "seashore",
+        "prob": 0.5027483701705933
+      },
+      {
+        "label": "dingo",
+        "prob": 0.3112329840660095
+      },
+      {
+        "label": "West_Highland_white_terrier",
+        "prob": 0.04245120286941528
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.016505617648363113
+      },
+      {
+        "label": "Arabian_camel",
+        "prob": 0.011210305616259575
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C2_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sandbar",
+        "prob": 0.4069347679615021
+      },
+      {
+        "label": "seashore",
+        "prob": 0.3627215623855591
+      },
+      {
+        "label": "wing",
+        "prob": 0.03590591624379158
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.0172287430614233
+      },
+      {
+        "label": "African_chameleon",
+        "prob": 0.013197585940361023
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/Desert_A/Desert_A_PasPlane_C_0_C3_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "Desert_A",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.9665228128433228
+      },
+      {
+        "label": "tripod",
+        "prob": 0.013555229641497135
+      },
+      {
+        "label": "pole",
+        "prob": 0.012061458081007004
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0018572408007457852
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.000984217505902052
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.6676934361457825
+      },
+      {
+        "label": "seashore",
+        "prob": 0.048171184957027435
+      },
+      {
+        "label": "tripod",
+        "prob": 0.037818264216184616
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.03610288351774216
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.03127430006861687
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": "pistol",
+    "predictions": [
+      {
+        "label": "revolver",
+        "prob": 0.9496186375617981
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.02310287207365036
+      },
+      {
+        "label": "rifle",
+        "prob": 0.01622346229851246
+      },
+      {
+        "label": "wing",
+        "prob": 0.0011972467182204127
+      },
+      {
+        "label": "tripod",
+        "prob": 0.001083330367691815
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": "pistol",
+    "predictions": [
+      {
+        "label": "revolver",
+        "prob": 0.9964883327484131
+      },
+      {
+        "label": "wing",
+        "prob": 0.0013431727420538664
+      },
+      {
+        "label": "rifle",
+        "prob": 0.0002713198191486299
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.00025126460241153836
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.00021407805616036057
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.9739615321159363
+      },
+      {
+        "label": "pole",
+        "prob": 0.017243921756744385
+      },
+      {
+        "label": "seashore",
+        "prob": 0.001546507584862411
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.0013655804796144366
+      },
+      {
+        "label": "tripod",
+        "prob": 0.0012849298072978854
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.9735829830169678
+      },
+      {
+        "label": "hook",
+        "prob": 0.008777229115366936
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.003269346198067069
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.0027126381173729897
+      },
+      {
+        "label": "tripod",
+        "prob": 0.002267936011776328
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": "pistol",
+    "predictions": [
+      {
+        "label": "revolver",
+        "prob": 0.9505825638771057
+      },
+      {
+        "label": "tripod",
+        "prob": 0.015262827277183533
+      },
+      {
+        "label": "rifle",
+        "prob": 0.014125637710094452
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.003921100869774818
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0027796891517937183
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": "pistol",
+    "predictions": [
+      {
+        "label": "revolver",
+        "prob": 0.9773469567298889
+      },
+      {
+        "label": "rifle",
+        "prob": 0.0072863600216805935
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.0038514859043061733
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.0017966099549084902
+      },
+      {
+        "label": "wing",
+        "prob": 0.0016383189940825105
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.9710810780525208
+      },
+      {
+        "label": "pole",
+        "prob": 0.01859854720532894
+      },
+      {
+        "label": "tripod",
+        "prob": 0.0035001817159354687
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0015069807413965464
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.0011647044448181987
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C0_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.9654122591018677
+      },
+      {
+        "label": "hook",
+        "prob": 0.01774773746728897
+      },
+      {
+        "label": "tripod",
+        "prob": 0.002785607473924756
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.0023353807628154755
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.002227929187938571
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C1_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": "pistol",
+    "predictions": [
+      {
+        "label": "revolver",
+        "prob": 0.8158689737319946
+      },
+      {
+        "label": "rifle",
+        "prob": 0.1534901112318039
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.008823220618069172
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0032887656707316637
+      },
+      {
+        "label": "wing",
+        "prob": 0.0027273015584796667
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C2_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": "pistol",
+    "predictions": [
+      {
+        "label": "revolver",
+        "prob": 0.9311172962188721
+      },
+      {
+        "label": "rifle",
+        "prob": 0.041310861706733704
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.006245793774724007
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.005480433814227581
+      },
+      {
+        "label": "tripod",
+        "prob": 0.003168002935126424
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/Desert_A/Desert_A_Pistol-1_C_0_C3_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "Desert_A",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "candle",
+        "prob": 0.4153590798377991
+      },
+      {
+        "label": "pole",
+        "prob": 0.1310681253671646
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.09102372080087662
+      },
+      {
+        "label": "seashore",
+        "prob": 0.06839266419410706
+      },
+      {
+        "label": "lakeside",
+        "prob": 0.06553079932928085
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "electric_guitar",
+        "prob": 0.6886389851570129
+      },
+      {
+        "label": "swing",
+        "prob": 0.18403950333595276
+      },
+      {
+        "label": "pole",
+        "prob": 0.025369521230459213
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.0177199374884367
+      },
+      {
+        "label": "parachute",
+        "prob": 0.005692658014595509
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "pole",
+        "prob": 0.661837637424469
+      },
+      {
+        "label": "seashore",
+        "prob": 0.15242652595043182
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.05494581535458565
+      },
+      {
+        "label": "plunger",
+        "prob": 0.008664451539516449
+      },
+      {
+        "label": "flagpole",
+        "prob": 0.00671061547473073
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "pole",
+        "prob": 0.3362084627151489
+      },
+      {
+        "label": "wing",
+        "prob": 0.3073691725730896
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.24545082449913025
+      },
+      {
+        "label": "seashore",
+        "prob": 0.018048733472824097
+      },
+      {
+        "label": "walking_stick",
+        "prob": 0.011305565014481544
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.5044674277305603
+      },
+      {
+        "label": "electric_guitar",
+        "prob": 0.11729266494512558
+      },
+      {
+        "label": "seashore",
+        "prob": 0.061548810452222824
+      },
+      {
+        "label": "beacon",
+        "prob": 0.055065106600522995
+      },
+      {
+        "label": "bison",
+        "prob": 0.03811279311776161
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "electric_guitar",
+        "prob": 0.45983514189720154
+      },
+      {
+        "label": "pole",
+        "prob": 0.13292215764522552
+      },
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.09732288122177124
+      },
+      {
+        "label": "bison",
+        "prob": 0.027527451515197754
+      },
+      {
+        "label": "ibex",
+        "prob": 0.02621055766940117
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "pole",
+        "prob": 0.7412158846855164
+      },
+      {
+        "label": "seashore",
+        "prob": 0.03250213339924812
+      },
+      {
+        "label": "umbrella",
+        "prob": 0.0308291707187891
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.024234460666775703
+      },
+      {
+        "label": "tripod",
+        "prob": 0.017917195335030556
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "pole",
+        "prob": 0.7423928380012512
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.05058405548334122
+      },
+      {
+        "label": "wing",
+        "prob": 0.032040562480688095
+      },
+      {
+        "label": "hook",
+        "prob": 0.02351650968194008
+      },
+      {
+        "label": "plunger",
+        "prob": 0.016506457701325417
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "electric_guitar",
+        "prob": 0.8173952698707581
+      },
+      {
+        "label": "swing",
+        "prob": 0.06559884548187256
+      },
+      {
+        "label": "pole",
+        "prob": 0.02798525057733059
+      },
+      {
+        "label": "seashore",
+        "prob": 0.0118276197463274
+      },
+      {
+        "label": "canoe",
+        "prob": 0.005325922276824713
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C0_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "electric_guitar",
+        "prob": 0.4191529154777527
+      },
+      {
+        "label": "swing",
+        "prob": 0.1347222775220871
+      },
+      {
+        "label": "pole",
+        "prob": 0.07587506622076035
+      },
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.05159852281212807
+      },
+      {
+        "label": "bison",
+        "prob": 0.031978048384189606
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C1_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "pole",
+        "prob": 0.8824684023857117
+      },
+      {
+        "label": "seashore",
+        "prob": 0.015609139576554298
+      },
+      {
+        "label": "hook",
+        "prob": 0.013141744770109653
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.00784321315586567
+      },
+      {
+        "label": "reel",
+        "prob": 0.004785654600709677
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C2_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "pole",
+        "prob": 0.7088468074798584
+      },
+      {
+        "label": "wing",
+        "prob": 0.05241328477859497
+      },
+      {
+        "label": "sandbar",
+        "prob": 0.050973474979400635
+      },
+      {
+        "label": "hook",
+        "prob": 0.030923139303922653
+      },
+      {
+        "label": "reel",
+        "prob": 0.027656465768814087
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/Desert_A/Desert_A_Guitar-1_C_0_C3_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "Desert_A",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": "car",
+    "predictions": [
+      {
+        "label": "cab",
+        "prob": 0.9998113512992859
+      },
+      {
+        "label": "parking_meter",
+        "prob": 1.6603622498223558e-05
+      },
+      {
+        "label": "ashcan",
+        "prob": 1.2225393220433034e-05
+      },
+      {
+        "label": "convertible",
+        "prob": 7.973239007696975e-06
+      },
+      {
+        "label": "vacuum",
+        "prob": 4.993781203666003e-06
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": "car",
+    "predictions": [
+      {
+        "label": "cab",
+        "prob": 0.9996589422225952
+      },
+      {
+        "label": "school_bus",
+        "prob": 8.068299939623103e-05
+      },
+      {
+        "label": "ashcan",
+        "prob": 3.302739787613973e-05
+      },
+      {
+        "label": "limousine",
+        "prob": 2.571006552898325e-05
+      },
+      {
+        "label": "parking_meter",
+        "prob": 1.0274825399392284e-05
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.6499468684196472
+      },
+      {
+        "label": "pool_table",
+        "prob": 0.0426570363342762
+      },
+      {
+        "label": "forklift",
+        "prob": 0.028854815289378166
+      },
+      {
+        "label": "crane",
+        "prob": 0.01995787024497986
+      },
+      {
+        "label": "cab",
+        "prob": 0.012034876272082329
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M0_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": "car",
+    "predictions": [
+      {
+        "label": "cab",
+        "prob": 0.8105409145355225
+      },
+      {
+        "label": "sports_car",
+        "prob": 0.05868975818157196
+      },
+      {
+        "label": "racer",
+        "prob": 0.030571673065423965
+      },
+      {
+        "label": "groom",
+        "prob": 0.022777020931243896
+      },
+      {
+        "label": "convertible",
+        "prob": 0.016748424619436264
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M0_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "vacuum",
+        "prob": 0.13977378606796265
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.09712224453687668
+      },
+      {
+        "label": "car_mirror",
+        "prob": 0.08202355355024338
+      },
+      {
+        "label": "television",
+        "prob": 0.06008967384696007
+      },
+      {
+        "label": "cab",
+        "prob": 0.04731471464037895
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "school_bus",
+        "prob": 0.28871065378189087
+      },
+      {
+        "label": "forklift",
+        "prob": 0.19044870138168335
+      },
+      {
+        "label": "amphibian",
+        "prob": 0.13349153101444244
+      },
+      {
+        "label": "pier",
+        "prob": 0.04186491668224335
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.03704553842544556
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.21151605248451233
+      },
+      {
+        "label": "pool_table",
+        "prob": 0.17168959975242615
+      },
+      {
+        "label": "tow_truck",
+        "prob": 0.05959097295999527
+      },
+      {
+        "label": "beer_glass",
+        "prob": 0.03437868133187294
+      },
+      {
+        "label": "trailer_truck",
+        "prob": 0.02774990350008011
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M1_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": "cabinet",
+    "predictions": [
+      {
+        "label": "chest",
+        "prob": 0.21932262182235718
+      },
+      {
+        "label": "racer",
+        "prob": 0.12031128257513046
+      },
+      {
+        "label": "cannon",
+        "prob": 0.09498009085655212
+      },
+      {
+        "label": "groom",
+        "prob": 0.0748598724603653
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.05396680906414986
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M1_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "vacuum",
+        "prob": 0.19447872042655945
+      },
+      {
+        "label": "car_mirror",
+        "prob": 0.08089971542358398
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.07921803742647171
+      },
+      {
+        "label": "cab",
+        "prob": 0.044200994074344635
+      },
+      {
+        "label": "minivan",
+        "prob": 0.03150758147239685
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C0_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": "trash bin",
+    "predictions": [
+      {
+        "label": "ashcan",
+        "prob": 0.3489297330379486
+      },
+      {
+        "label": "lawn_mower",
+        "prob": 0.18979209661483765
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.06629379838705063
+      },
+      {
+        "label": "school_bus",
+        "prob": 0.042846620082855225
+      },
+      {
+        "label": "shopping_cart",
+        "prob": 0.03821330517530441
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C1_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.5379244685173035
+      },
+      {
+        "label": "pool_table",
+        "prob": 0.040183838456869125
+      },
+      {
+        "label": "shopping_cart",
+        "prob": 0.03596191108226776
+      },
+      {
+        "label": "beer_glass",
+        "prob": 0.01832929253578186
+      },
+      {
+        "label": "goblet",
+        "prob": 0.01555443461984396
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C2_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M2_F0.png",
+    "class_value": "2958343",
+    "object": "Taxi_C",
+    "ground_truth_label": "car, automobile, cab, hack, taxi, taxicab, convertible, sports car, sport car, Model T, minivan, racer, race car, racing car",
+    "gt_shapenet": "car",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Gila_monster",
+        "prob": 0.8088329434394836
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.03556785732507706
+      },
+      {
+        "label": "groom",
+        "prob": 0.03407040983438492
+      },
+      {
+        "label": "vault",
+        "prob": 0.009979250840842724
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.00918483454734087
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2958343/UtopianCityDemoMap/UtopianCityDemoMap_Taxi_C_0_C3_L0_M2_F0.png",
+    "Object": "Taxi_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2958343",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "lawn_mower",
+        "prob": 0.1687048077583313
+      },
+      {
+        "label": "tricycle",
+        "prob": 0.12144208699464798
+      },
+      {
+        "label": "shopping_cart",
+        "prob": 0.10779329389333725
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.10673064738512039
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.026425689458847046
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "rocket",
+    "predictions": [
+      {
+        "label": "missile",
+        "prob": 0.05974920839071274
+      },
+      {
+        "label": "basset",
+        "prob": 0.045488931238651276
+      },
+      {
+        "label": "pier",
+        "prob": 0.04323170706629753
+      },
+      {
+        "label": "crane",
+        "prob": 0.03232495114207268
+      },
+      {
+        "label": "wing",
+        "prob": 0.0313890278339386
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.9846728444099426
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.0019915318116545677
+      },
+      {
+        "label": "punching_bag",
+        "prob": 0.0014773162547498941
+      },
+      {
+        "label": "cockroach",
+        "prob": 0.0008572597289457917
+      },
+      {
+        "label": "goblet",
+        "prob": 0.00044555048225447536
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.5832676291465759
+      },
+      {
+        "label": "groom",
+        "prob": 0.10803186148405075
+      },
+      {
+        "label": "airliner",
+        "prob": 0.08538297563791275
+      },
+      {
+        "label": "warplane",
+        "prob": 0.05521522834897041
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.031281303614377975
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M0_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Chihuahua",
+        "prob": 0.41834914684295654
+      },
+      {
+        "label": "miniature_pinscher",
+        "prob": 0.1906626969575882
+      },
+      {
+        "label": "kelpie",
+        "prob": 0.08440074324607849
+      },
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.053678352385759354
+      },
+      {
+        "label": "toy_terrier",
+        "prob": 0.050343651324510574
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Chihuahua",
+        "prob": 0.334141343832016
+      },
+      {
+        "label": "miniature_pinscher",
+        "prob": 0.057618867605924606
+      },
+      {
+        "label": "silky_terrier",
+        "prob": 0.04493929073214531
+      },
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.03294375166296959
+      },
+      {
+        "label": "cockroach",
+        "prob": 0.02707650512456894
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.9345653653144836
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.007258175406605005
+      },
+      {
+        "label": "cockroach",
+        "prob": 0.006312041077762842
+      },
+      {
+        "label": "goblet",
+        "prob": 0.004322999622672796
+      },
+      {
+        "label": "corkscrew",
+        "prob": 0.0034529766999185085
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "sax",
+        "prob": 0.2811833918094635
+      },
+      {
+        "label": "folding_chair",
+        "prob": 0.06877970695495605
+      },
+      {
+        "label": "groom",
+        "prob": 0.06641751527786255
+      },
+      {
+        "label": "shopping_cart",
+        "prob": 0.06417056173086166
+      },
+      {
+        "label": "barrow",
+        "prob": 0.03910441696643829
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M1_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "miniature_pinscher",
+        "prob": 0.5814285278320312
+      },
+      {
+        "label": "Chihuahua",
+        "prob": 0.10355798900127411
+      },
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.06687293201684952
+      },
+      {
+        "label": "French_bulldog",
+        "prob": 0.04059847816824913
+      },
+      {
+        "label": "kelpie",
+        "prob": 0.02425583079457283
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C0_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "cockroach",
+        "prob": 0.07470597326755524
+      },
+      {
+        "label": "viaduct",
+        "prob": 0.06987901777029037
+      },
+      {
+        "label": "cricket",
+        "prob": 0.06392433494329453
+      },
+      {
+        "label": "pier",
+        "prob": 0.0378660149872303
+      },
+      {
+        "label": "school_bus",
+        "prob": 0.03376781567931175
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C1_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.9332864284515381
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.009674684144556522
+      },
+      {
+        "label": "goblet",
+        "prob": 0.006793566048145294
+      },
+      {
+        "label": "planetarium",
+        "prob": 0.0035949358716607094
+      },
+      {
+        "label": "punching_bag",
+        "prob": 0.0022514776792377234
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C2_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "FighterJet_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "obelisk",
+        "prob": 0.4616929292678833
+      },
+      {
+        "label": "groom",
+        "prob": 0.17940211296081543
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.034750256687402725
+      },
+      {
+        "label": "barrow",
+        "prob": 0.014656512066721916
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.014237334951758385
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_FighterJet_C_0_C3_L0_M2_F0.png",
+    "Object": "FighterJet_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "trash bin",
+    "predictions": [
+      {
+        "label": "ashcan",
+        "prob": 0.24188314378261566
+      },
+      {
+        "label": "polecat",
+        "prob": 0.030084596946835518
+      },
+      {
+        "label": "wallaby",
+        "prob": 0.025677917525172234
+      },
+      {
+        "label": "vacuum",
+        "prob": 0.025524772703647614
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.019870519638061523
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": "rocket",
+    "predictions": [
+      {
+        "label": "missile",
+        "prob": 0.2672813832759857
+      },
+      {
+        "label": "wing",
+        "prob": 0.09011397510766983
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.06502163410186768
+      },
+      {
+        "label": "projectile",
+        "prob": 0.05172378942370415
+      },
+      {
+        "label": "pier",
+        "prob": 0.04411078244447708
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.6302646994590759
+      },
+      {
+        "label": "television",
+        "prob": 0.04942762106657028
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.03455683961510658
+      },
+      {
+        "label": "punching_bag",
+        "prob": 0.03194570541381836
+      },
+      {
+        "label": "screen",
+        "prob": 0.02603447623550892
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M0_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "wing",
+        "prob": 0.3237774670124054
+      },
+      {
+        "label": "warplane",
+        "prob": 0.2856961488723755
+      },
+      {
+        "label": "groom",
+        "prob": 0.05867808684706688
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.04399169236421585
+      },
+      {
+        "label": "stretcher",
+        "prob": 0.020398743450641632
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M0_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "mongoose",
+        "prob": 0.2125142514705658
+      },
+      {
+        "label": "polecat",
+        "prob": 0.06607616692781448
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.06531630456447601
+      },
+      {
+        "label": "beaver",
+        "prob": 0.051398418843746185
+      },
+      {
+        "label": "otter",
+        "prob": 0.04115575924515724
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "cockroach",
+        "prob": 0.395353764295578
+      },
+      {
+        "label": "school_bus",
+        "prob": 0.1334078460931778
+      },
+      {
+        "label": "crane",
+        "prob": 0.06138143315911293
+      },
+      {
+        "label": "viaduct",
+        "prob": 0.030967952683568
+      },
+      {
+        "label": "missile",
+        "prob": 0.02816684916615486
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.8988405466079712
+      },
+      {
+        "label": "cockroach",
+        "prob": 0.011808434501290321
+      },
+      {
+        "label": "airship",
+        "prob": 0.004463833756744862
+      },
+      {
+        "label": "screen",
+        "prob": 0.0037417542189359665
+      },
+      {
+        "label": "television",
+        "prob": 0.0035279218573123217
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M1_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Gila_monster",
+        "prob": 0.9222103357315063
+      },
+      {
+        "label": "alligator_lizard",
+        "prob": 0.015240244567394257
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.007155469618737698
+      },
+      {
+        "label": "folding_chair",
+        "prob": 0.005778173450380564
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.0034634373150765896
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M1_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "mongoose",
+        "prob": 0.7151432037353516
+      },
+      {
+        "label": "polecat",
+        "prob": 0.02092473953962326
+      },
+      {
+        "label": "common_iguana",
+        "prob": 0.020671458914875984
+      },
+      {
+        "label": "otter",
+        "prob": 0.018563909456133842
+      },
+      {
+        "label": "wallaby",
+        "prob": 0.013134382665157318
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C0_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.14592967927455902
+      },
+      {
+        "label": "tricycle",
+        "prob": 0.05659925937652588
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.04758531600236893
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.04637080430984497
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.04107847437262535
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C1_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.9890328645706177
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.0020464390981942415
+      },
+      {
+        "label": "goblet",
+        "prob": 0.0004353931872174144
+      },
+      {
+        "label": "digital_clock",
+        "prob": 0.00041236786637455225
+      },
+      {
+        "label": "punching_bag",
+        "prob": 0.00035875794128514826
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C2_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M2_F0.png",
+    "class_value": "2691156",
+    "object": "PasPlane_C",
+    "ground_truth_label": "airliner, warplane, military plane, aircraft",
+    "gt_shapenet": "airplane",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "obelisk",
+        "prob": 0.34857308864593506
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.0916779488325119
+      },
+      {
+        "label": "groom",
+        "prob": 0.055495887994766235
+      },
+      {
+        "label": "lawn_mower",
+        "prob": 0.04367557168006897
+      },
+      {
+        "label": "vault",
+        "prob": 0.038878895342350006
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/2691156/UtopianCityDemoMap/UtopianCityDemoMap_PasPlane_C_0_C3_L0_M2_F0.png",
+    "Object": "PasPlane_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "2691156",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.9961267113685608
+      },
+      {
+        "label": "traffic_light",
+        "prob": 0.0003881951852235943
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.0003378871188033372
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.0003083909978158772
+      },
+      {
+        "label": "street_sign",
+        "prob": 0.00021228134573902935
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "school_bus",
+        "prob": 0.2500612437725067
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.07057598978281021
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.05136853829026222
+      },
+      {
+        "label": "pier",
+        "prob": 0.041559815406799316
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.03765077516436577
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.2932780683040619
+      },
+      {
+        "label": "rifle",
+        "prob": 0.26865747570991516
+      },
+      {
+        "label": "assault_rifle",
+        "prob": 0.056616730988025665
+      },
+      {
+        "label": "pool_table",
+        "prob": 0.03198619559407234
+      },
+      {
+        "label": "goblet",
+        "prob": 0.02603599615395069
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M0_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "park_bench",
+        "prob": 0.5678192973136902
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.2090245634317398
+      },
+      {
+        "label": "shopping_cart",
+        "prob": 0.06859578937292099
+      },
+      {
+        "label": "groom",
+        "prob": 0.029934631660580635
+      },
+      {
+        "label": "carton",
+        "prob": 0.02674887701869011
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M0_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.897110641002655
+      },
+      {
+        "label": "traffic_light",
+        "prob": 0.016801347956061363
+      },
+      {
+        "label": "street_sign",
+        "prob": 0.011960281990468502
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.011392333544790745
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.00871932040899992
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "school_bus",
+        "prob": 0.2586517333984375
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.07504197955131531
+      },
+      {
+        "label": "crane",
+        "prob": 0.06086776405572891
+      },
+      {
+        "label": "pier",
+        "prob": 0.049481626600027084
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.031281761825084686
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.6776476502418518
+      },
+      {
+        "label": "rifle",
+        "prob": 0.0711120143532753
+      },
+      {
+        "label": "hook",
+        "prob": 0.03827624022960663
+      },
+      {
+        "label": "revolver",
+        "prob": 0.013951417058706284
+      },
+      {
+        "label": "goblet",
+        "prob": 0.011621837504208088
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M1_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "park_bench",
+        "prob": 0.9936298727989197
+      },
+      {
+        "label": "rocking_chair",
+        "prob": 0.0016930161509662867
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.0012516312999650836
+      },
+      {
+        "label": "groom",
+        "prob": 0.0008466191357001662
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.0006802963325753808
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M1_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.6601759195327759
+      },
+      {
+        "label": "pole",
+        "prob": 0.10266778618097305
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.054249655455350876
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.04697980731725693
+      },
+      {
+        "label": "traffic_light",
+        "prob": 0.022568369284272194
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C0_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.4210541844367981
+      },
+      {
+        "label": "school_bus",
+        "prob": 0.2181382179260254
+      },
+      {
+        "label": "park_bench",
+        "prob": 0.042821720242500305
+      },
+      {
+        "label": "ashcan",
+        "prob": 0.0370752289891243
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.030674900859594345
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C1_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.40038394927978516
+      },
+      {
+        "label": "rifle",
+        "prob": 0.22648654878139496
+      },
+      {
+        "label": "revolver",
+        "prob": 0.03531986102461815
+      },
+      {
+        "label": "hook",
+        "prob": 0.030604543164372444
+      },
+      {
+        "label": "stretcher",
+        "prob": 0.02855348214507103
+      }
+    ],
+    "hit": true,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C2_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M2_F0.png",
+    "class_value": "3948459",
+    "object": "Pistol-1_C",
+    "ground_truth_label": "pistol, handgun, revolver, six-gun, six-shooter",
+    "gt_shapenet": "pistol",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "park_bench",
+        "prob": 0.2776200473308563
+      },
+      {
+        "label": "groom",
+        "prob": 0.13408783078193665
+      },
+      {
+        "label": "barrow",
+        "prob": 0.12988057732582092
+      },
+      {
+        "label": "rocking_chair",
+        "prob": 0.10312124341726303
+      },
+      {
+        "label": "tricycle",
+        "prob": 0.08807123452425003
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3948459/UtopianCityDemoMap/UtopianCityDemoMap_Pistol-1_C_0_C3_L0_M2_F0.png",
+    "Object": "Pistol-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3948459",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "shovel",
+        "prob": 0.9996272325515747
+      },
+      {
+        "label": "parking_meter",
+        "prob": 8.756099850870669e-05
+      },
+      {
+        "label": "plunger",
+        "prob": 2.683505226741545e-05
+      },
+      {
+        "label": "umbrella",
+        "prob": 1.415156111761462e-05
+      },
+      {
+        "label": "pole",
+        "prob": 9.053009307535831e-06
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "swing",
+        "prob": 0.447343647480011
+      },
+      {
+        "label": "vacuum",
+        "prob": 0.10105443000793457
+      },
+      {
+        "label": "shovel",
+        "prob": 0.06777006387710571
+      },
+      {
+        "label": "hatchet",
+        "prob": 0.03324748948216438
+      },
+      {
+        "label": "banjo",
+        "prob": 0.028020918369293213
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.5319654941558838
+      },
+      {
+        "label": "parking_meter",
+        "prob": 0.10147945582866669
+      },
+      {
+        "label": "eggnog",
+        "prob": 0.04381774365901947
+      },
+      {
+        "label": "goblet",
+        "prob": 0.029033271595835686
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.022922402247786522
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M0_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "parking_meter",
+        "prob": 0.42950841784477234
+      },
+      {
+        "label": "plunger",
+        "prob": 0.1720777004957199
+      },
+      {
+        "label": "pole",
+        "prob": 0.08623846620321274
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.05776471272110939
+      },
+      {
+        "label": "broom",
+        "prob": 0.05385579541325569
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M0_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "Default",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "shovel",
+        "prob": 0.4179988503456116
+      },
+      {
+        "label": "parking_meter",
+        "prob": 0.18000367283821106
+      },
+      {
+        "label": "plunger",
+        "prob": 0.12795856595039368
+      },
+      {
+        "label": "traffic_light",
+        "prob": 0.04039272665977478
+      },
+      {
+        "label": "broom",
+        "prob": 0.029767338186502457
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.6789488196372986
+      },
+      {
+        "label": "schipperke",
+        "prob": 0.02865169756114483
+      },
+      {
+        "label": "French_bulldog",
+        "prob": 0.022195246070623398
+      },
+      {
+        "label": "totem_pole",
+        "prob": 0.017196286469697952
+      },
+      {
+        "label": "wood_rabbit",
+        "prob": 0.013342689722776413
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.8123120069503784
+      },
+      {
+        "label": "parking_meter",
+        "prob": 0.03580601140856743
+      },
+      {
+        "label": "pole",
+        "prob": 0.02266675978899002
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.02024899423122406
+      },
+      {
+        "label": "goblet",
+        "prob": 0.008551342412829399
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M1_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "obelisk",
+        "prob": 0.5045848488807678
+      },
+      {
+        "label": "shovel",
+        "prob": 0.03821701928973198
+      },
+      {
+        "label": "umbrella",
+        "prob": 0.03198804333806038
+      },
+      {
+        "label": "parking_meter",
+        "prob": 0.031106440350413322
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.027785666286945343
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M1_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Pattern_10_bumpy",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "swing",
+        "prob": 0.45215854048728943
+      },
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.09615693241357803
+      },
+      {
+        "label": "totem_pole",
+        "prob": 0.07728555798530579
+      },
+      {
+        "label": "pole",
+        "prob": 0.07278070598840714
+      },
+      {
+        "label": "maypole",
+        "prob": 0.019468853250145912
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C0_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "Scotch_terrier",
+        "prob": 0.9361637830734253
+      },
+      {
+        "label": "wine_bottle",
+        "prob": 0.006935785990208387
+      },
+      {
+        "label": "umbrella",
+        "prob": 0.006767169572412968
+      },
+      {
+        "label": "electric_guitar",
+        "prob": 0.006722721271216869
+      },
+      {
+        "label": "schipperke",
+        "prob": 0.0030658047180622816
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C1_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=0.000 Y=-1.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "balloon",
+        "prob": 0.7191129326820374
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.0787840411067009
+      },
+      {
+        "label": "pole",
+        "prob": 0.02206992171704769
+      },
+      {
+        "label": "goblet",
+        "prob": 0.01698162406682968
+      },
+      {
+        "label": "tripod",
+        "prob": 0.009261080995202065
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C2_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  },
+  {
+    "image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M2_F0.png",
+    "class_value": "3467517",
+    "object": "Guitar-1_C",
+    "ground_truth_label": "guitar, acoustic guitar, electric guitar",
+    "gt_shapenet": "guitar",
+    "pred_shapenet": null,
+    "predictions": [
+      {
+        "label": "swing",
+        "prob": 0.41512030363082886
+      },
+      {
+        "label": "obelisk",
+        "prob": 0.3704991340637207
+      },
+      {
+        "label": "umbrella",
+        "prob": 0.02736937627196312
+      },
+      {
+        "label": "tripod",
+        "prob": 0.023654144257307053
+      },
+      {
+        "label": "spotlight",
+        "prob": 0.010824313387274742
+      }
+    ],
+    "hit": false,
+    "Image": "Dataset/3467517/UtopianCityDemoMap/UtopianCityDemoMap_Guitar-1_C_0_C3_L0_M2_F0.png",
+    "Object": "Guitar-1_C",
+    "Level": "UtopianCityDemoMap",
+    "Class": "3467517",
+    "Material": "MI_Grass_spotty",
+    "Camera Position": "X=-1.000 Y=0.000 Z=0.200",
+    "Light Color (RGB)": "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",
+    "Fog": "false"
+  }
+]

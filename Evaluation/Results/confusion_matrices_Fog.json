@@ -1,0 +1,24 @@
+{
+  "Fog=false": {
+    "car": {
+      "unknown": 18,
+      "car": 4,
+      "cabinet": 1,
+      "trash bin": 1
+    },
+    "airplane": {
+      "airplane": 3,
+      "unknown": 39,
+      "watercraft": 3,
+      "rocket": 2,
+      "trash bin": 1
+    },
+    "pistol": {
+      "unknown": 18,
+      "pistol": 6
+    },
+    "guitar": {
+      "unknown": 24
+    }
+  }
+}

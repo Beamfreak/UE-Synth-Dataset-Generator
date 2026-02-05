@@ -1,0 +1,39 @@
+{
+  "Level=Desert_A": {
+    "car": {
+      "unknown": 11,
+      "car": 1
+    },
+    "airplane": {
+      "airplane": 3,
+      "unknown": 18,
+      "watercraft": 3
+    },
+    "pistol": {
+      "unknown": 6,
+      "pistol": 6
+    },
+    "guitar": {
+      "unknown": 12
+    }
+  },
+  "Level=UtopianCityDemoMap": {
+    "car": {
+      "car": 3,
+      "unknown": 7,
+      "cabinet": 1,
+      "trash bin": 1
+    },
+    "airplane": {
+      "unknown": 21,
+      "rocket": 2,
+      "trash bin": 1
+    },
+    "pistol": {
+      "unknown": 12
+    },
+    "guitar": {
+      "unknown": 12
+    }
+  }
+}

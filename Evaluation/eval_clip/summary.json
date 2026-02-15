@@ -1,6 +1,6 @@
 {
-  "model": "vit_base_patch32_clip_224.laion400m_e32",
+  "model": "vit_base_patch16_clip_224.metaclip_2pt5b",
   "mode": "knn",
-  "overall_accuracy": 0.85,
+  "overall_accuracy": 0.925,
   "n": 120
 }

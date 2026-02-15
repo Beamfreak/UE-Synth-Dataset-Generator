@@ -1,33 +1,33 @@
 column,value,n,correct,incorrect,accuracy
-Camera Position,X=0.000 Y=1.000 Z=0.200,30,29,1,0.9666666666666667
-Camera Position,X=0.000 Y=-1.000 Z=0.200,30,28,2,0.9333333333333333
-Camera Position,X=-1.000 Y=0.000 Z=0.200,30,24,6,0.8
-Camera Position,X=1.000 Y=0.000 Z=0.200,30,21,9,0.7
+Camera Position,X=0.000 Y=-1.000 Z=0.200,30,26,4,0.8666666666666667
+Camera Position,X=1.000 Y=0.000 Z=0.200,30,26,4,0.8666666666666667
+Camera Position,X=0.000 Y=1.000 Z=0.200,30,25,5,0.8333333333333334
+Camera Position,X=-1.000 Y=0.000 Z=0.200,30,22,8,0.7333333333333333
 Class,2691156,48,48,0,1.0
-Class,3467517,24,19,5,0.7916666666666666
+Class,2958343,24,18,6,0.75
 Class,3948459,24,18,6,0.75
-Class,2958343,24,17,7,0.7083333333333334
-Fog,False,120,102,18,0.85
-Level,Desert_A,60,57,3,0.95
-Level,UtopianCityDemoMap,60,45,15,0.75
-Light Color (RGB),"(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",120,102,18,0.85
-Material,Default,40,37,3,0.925
-Material,MI_Pattern_10_bumpy,40,34,6,0.85
-Material,MI_Grass_spotty,40,31,9,0.775
+Class,3467517,24,15,9,0.625
+Fog,False,120,99,21,0.825
+Level,Desert_A,60,58,2,0.9666666666666667
+Level,UtopianCityDemoMap,60,41,19,0.6833333333333333
+Light Color (RGB),"(R=1.000000,G=0.896086,B=0.322917,A=1.000000)",120,99,21,0.825
+Material,MI_Pattern_10_bumpy,40,35,5,0.875
+Material,Default,40,32,8,0.8
+Material,MI_Grass_spotty,40,32,8,0.8
 Object,FighterJet_C,24,24,0,1.0
 Object,PasPlane_C,24,24,0,1.0
-Object,Guitar-1_C,24,19,5,0.7916666666666666
 Object,Pistol-1_C,24,18,6,0.75
-Object,Taxi_C,24,17,7,0.7083333333333334
+Object,Taxi_C,24,18,6,0.75
+Object,Guitar-1_C,24,15,9,0.625
 category_key,airplane,48,48,0,1.0
-category_key,guitar,24,19,5,0.7916666666666666
+category_key,car,24,18,6,0.75
 category_key,pistol,24,18,6,0.75
-category_key,car,24,17,7,0.7083333333333334
-pred_shapenet_synset,02958343,17,17,0,1.0
-pred_shapenet_synset,03467517,20,19,1,0.95
-pred_shapenet_synset,03948459,20,18,2,0.9
-pred_shapenet_synset,02691156,63,48,15,0.7619047619047619
+category_key,guitar,24,15,9,0.625
+pred_shapenet_synset,03467517,15,15,0,1.0
+pred_shapenet_synset,02691156,58,48,10,0.8275862068965517
+pred_shapenet_synset,03948459,22,18,4,0.8181818181818182
+pred_shapenet_synset,02958343,25,18,7,0.72
 shapenet_synset,02691156,48,48,0,1.0
-shapenet_synset,03467517,24,19,5,0.7916666666666666
+shapenet_synset,02958343,24,18,6,0.75
 shapenet_synset,03948459,24,18,6,0.75
-shapenet_synset,02958343,24,17,7,0.7083333333333334
+shapenet_synset,03467517,24,15,9,0.625

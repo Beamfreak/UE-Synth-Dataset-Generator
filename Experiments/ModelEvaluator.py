@@ -252,17 +252,25 @@ class ModelEvaluator:
         
         return all_predictions, all_probs_mapped, all_probs_full, all_labels, all_metadata, all_imagenet_predictions
     
-    def calculate_metrics_robust(self, predictions, probs, labels, num_classes=7):
+    def calculate_metrics_robust(self, predictions, probs, labels, num_classes=None):
         """Calculate metrics with robust AUC calculation and detailed debugging."""
         pred_classes = np.array(predictions)
         true_classes = np.array(labels)
         probs = np.array(probs)
+        
+        # Infer number of classes from probability array if not provided
+        if num_classes is None:
+            if len(probs.shape) > 1:
+                num_classes = probs.shape[1]  # Number of columns in probability matrix
+            else:
+                num_classes = len(np.unique(true_classes))  # Fallback to unique true labels
         
         print(f"\n=== DEBUG AUC CALCULATION ===")
         print(f"pred_classes shape: {pred_classes.shape}, unique: {np.unique(pred_classes)}")
         print(f"true_classes shape: {true_classes.shape}, unique: {np.unique(true_classes)}")
         print(f"probs shape: {probs.shape}")
         print(f"probs range: [{np.min(probs):.4f}, {np.max(probs):.4f}]")
+        print(f"num_classes inferred: {num_classes}")
         
         # Basic accuracy metrics
         valid_mask = pred_classes != 999
@@ -281,12 +289,21 @@ class ModelEvaluator:
                 k = min(5, valid_probs.shape[1])
                 unique_classes = np.unique(valid_true)
                 
-                top5_acc = top_k_accuracy_score(
-                    valid_true, 
-                    valid_probs, 
-                    k=k, 
-                    labels=unique_classes
-                )
+                # Only pass labels parameter if all classes are represented in valid predictions
+                if len(unique_classes) == num_classes:
+                    top5_acc = top_k_accuracy_score(
+                        valid_true, 
+                        valid_probs, 
+                        k=k, 
+                        labels=unique_classes
+                    )
+                else:
+                    # If not all classes represented, don't specify labels to avoid mismatch
+                    top5_acc = top_k_accuracy_score(
+                        valid_true, 
+                        valid_probs, 
+                        k=k
+                    )
             except Exception as e:
                 print(f"Top-5 accuracy calculation failed: {e}")
                 top5_acc = top1_acc_overall
@@ -296,8 +313,11 @@ class ModelEvaluator:
         # AUC Calculation: FULL DATASET (not just valid predictions)
         auc_full_dataset = float("nan")
         try:
-            # Create probability matrix for ALL samples
-            all_probs = np.zeros((len(pred_classes), num_classes))
+            # Get actual number of probability columns available
+            actual_num_classes = probs.shape[1] if len(probs.shape) > 1 else 1
+            
+            # Create probability matrix for ALL samples using actual number of classes
+            all_probs = np.zeros((len(pred_classes), actual_num_classes))
             
             # For valid predictions: use the actual probabilities
             if len(valid_preds) > 0:
@@ -311,7 +331,8 @@ class ModelEvaluator:
             # For invalid predictions: assign very low uniform probabilities
             # This represents the model's uncertainty/rejection
             invalid_mask = ~valid_mask
-            all_probs[invalid_mask] = 1.0 / num_classes  # Uniform = maximum uncertainty
+            if invalid_mask.sum() > 0:
+                all_probs[invalid_mask] = 1.0 / actual_num_classes  # Uniform = maximum uncertainty
             
             # Verify probabilities
             row_sums = all_probs.sum(axis=1)
@@ -320,12 +341,13 @@ class ModelEvaluator:
             # Calculate AUC on the full dataset
             unique_true_classes = np.unique(true_classes)
             if len(unique_true_classes) > 1:
+                # Use only the classes that actually appear in true_classes
                 auc_full_dataset = roc_auc_score(
                     y_true=true_classes,  # All true labels
                     y_score=all_probs,    # All probabilities (including uniform for rejections)
                     multi_class='ovr',
                     average='macro',
-                    labels=list(range(num_classes))
+                    labels=unique_true_classes
                 )
                 print(f"AUC (full dataset): {auc_full_dataset:.4f}")
             else:

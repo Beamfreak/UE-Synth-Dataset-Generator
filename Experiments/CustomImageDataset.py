@@ -33,7 +33,20 @@ class CustomImageDataset(Dataset):
             image = self.transform(image)
         
         # Get class and map to ImageNet if mapping provided
-        class_label = int(row["Class"])
+        raw_class = row["Class"]
+        raw_class_str = str(raw_class).strip()
+        raw_class_int = None
+        if raw_class_str.isdigit():
+            raw_class_int = int(raw_class_str)
+        elif isinstance(raw_class, (int, float)):
+            raw_class_int = int(raw_class)
+
+        class_map_uses_strings = any(isinstance(k, str) for k in self.class_map.keys())
+        if class_map_uses_strings:
+            class_label = raw_class_str
+        else:
+            class_label = raw_class_int if raw_class_int is not None else raw_class_str
+
         imagenet_label = self.class_map.get(class_label, class_label)
         
         return {
@@ -43,10 +56,10 @@ class CustomImageDataset(Dataset):
             "idx": idx,
             # Store metadata as individual fields to avoid collation issues
             "image_path": row["Image"],
-            "object": row["Object"],
-            "level": row["World"],
-            "material": row["Material"],
-            "camera_position": row["Camera Position"],
-            "light_color": row["Light Color (RGB)"],
-            "fog": row["Fog"],
+            "object": row.get("Object", ""),
+            "level": row.get("World", row.get("Level", "")),
+            "material": row.get("Material", ""),
+            "camera_position": row.get("Camera Position", ""),
+            "light_color": row.get("Light Color (RGB)", ""),
+            "fog": row.get("Fog", ""),
         }

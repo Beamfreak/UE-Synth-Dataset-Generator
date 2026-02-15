@@ -1,0 +1,94 @@
+{
+  "baseline_performance": {},
+  "variable_impact": {
+    "resnet50": {
+      "material": {
+        "Default": {
+          "overall_accuracy": 0.125,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.125,
+          "accuracy_impact": 0.125,
+          "n_samples": 40
+        },
+        "MI_Pattern_10_bumpy": {
+          "overall_accuracy": 0.075,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.075,
+          "accuracy_impact": 0.075,
+          "n_samples": 40
+        },
+        "MI_Grass_spotty": {
+          "overall_accuracy": 0.075,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.075,
+          "accuracy_impact": 0.075,
+          "n_samples": 40
+        }
+      },
+      "light_color": {
+        "(R=1.000000,G=0.896086,B=0.322917,A=1.000000)": {
+          "overall_accuracy": 0.09166666666666666,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.09166666666666666,
+          "accuracy_impact": 0.09166666666666666,
+          "n_samples": 120
+        }
+      },
+      "fog": {
+        "False": {
+          "overall_accuracy": 0.09166666666666666,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.09166666666666666,
+          "accuracy_impact": 0.09166666666666666,
+          "n_samples": 120
+        }
+      },
+      "camera_position": {
+        "X=0.000 Y=1.000 Z=0.200": {
+          "overall_accuracy": 0.1,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.1,
+          "accuracy_impact": 0.1,
+          "n_samples": 30
+        },
+        "X=0.000 Y=-1.000 Z=0.200": {
+          "overall_accuracy": 0.06666666666666667,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.06666666666666667,
+          "accuracy_impact": 0.06666666666666667,
+          "n_samples": 30
+        },
+        "X=1.000 Y=0.000 Z=0.200": {
+          "overall_accuracy": 0.06666666666666667,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.06666666666666667,
+          "accuracy_impact": 0.06666666666666667,
+          "n_samples": 30
+        },
+        "X=-1.000 Y=0.000 Z=0.200": {
+          "overall_accuracy": 0.13333333333333333,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.13333333333333333,
+          "accuracy_impact": 0.13333333333333333,
+          "n_samples": 30
+        }
+      },
+      "level": {
+        "Desert_A": {
+          "overall_accuracy": 0.11666666666666667,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.11666666666666667,
+          "accuracy_impact": 0.11666666666666667,
+          "n_samples": 60
+        },
+        "UtopianCityDemoMap": {
+          "overall_accuracy": 0.06666666666666667,
+          "valid_accuracy": 1.0,
+          "valid_prediction_rate": 0.06666666666666667,
+          "accuracy_impact": 0.06666666666666667,
+          "n_samples": 60
+        }
+      }
+    }
+  }
+}

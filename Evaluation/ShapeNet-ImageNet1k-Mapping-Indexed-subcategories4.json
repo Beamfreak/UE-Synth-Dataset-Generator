@@ -1,18 +1,13 @@
 {
   "airplane": {
     "imagenet_class_indices": [
-      403,
       404,
       405,
-      652,
-      726,
       895
     ],
-    "imagenet_class_indices_count": 6,
     "imagenet_label_candidates": [
       "airliner",
       "warplane, military plane",
-      "aircraft",
       "airship, dirigible"
     ],
     "imagenet_wnid": "n02691156",
@@ -20,50 +15,40 @@
   },
   "bag": {
     "imagenet_class_indices": [
-      324,
       414,
-      569,
       636,
       728,
-      747,
       748,
-      797,
-      931,
-      936
+      797
     ],
-    "imagenet_class_indices_count": 10,
     "imagenet_label_candidates": [
       "bag",
       "backpack, back pack, knapsack, packsack, rucksack, haversack",
       "plastic bag",
       "mailbag, postbag",
-      "purse"
+      "purse",
+      "sleeping bag"
     ],
     "imagenet_wnid": "n02773838",
     "shapenet_synset": "02773838"
   },
   "basket": {
     "imagenet_class_indices": [
-      430,
       790,
-      791
+      588
     ],
-    "imagenet_class_indices_count": 3,
     "imagenet_label_candidates": [
       "basket",
-      "shopping basket"
+      "shopping basket",
+      "hamper"
     ],
     "imagenet_wnid": "n02801938",
     "shapenet_synset": "02801938"
   },
   "bathtub": {
     "imagenet_class_indices": [
-      433,
-      434,
-      435,
-      876
+      435
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "bathtub, bathing tub, bath, tub"
     ],
@@ -72,14 +57,14 @@
   },
   "bed": {
     "imagenet_class_indices": [
-      181,
+      431,
       520,
       564,
       831
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "bed",
+      "bassinet",
       "four-poster",
       "studio couch, day bed",
       "crib, cot"
@@ -91,7 +76,6 @@
     "imagenet_class_indices": [
       703
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "bench",
       "park bench"
@@ -101,13 +85,9 @@
   },
   "bicycle": {
     "imagenet_class_indices": [
-      238,
-      239,
       444,
-      671,
-      672
+      671
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "bicycle",
       "bike",
@@ -121,7 +101,6 @@
     "imagenet_class_indices": [
       448
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "birdhouse"
     ],
@@ -132,7 +111,6 @@
     "imagenet_class_indices": [
       453
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "bookshelf",
       "bookcase"
@@ -142,29 +120,23 @@
   },
   "bottle": {
     "imagenet_class_indices": [
-      20,
-      58,
-      221,
-      346,
       440,
       441,
-      455,
       720,
       737,
       898,
       899,
-      900,
-      907,
-      966
+      901,
+      907
     ],
-    "imagenet_class_indices_count": 14,
     "imagenet_label_candidates": [
       "bottle",
       "beer bottle",
       "wine bottle",
       "water bottle",
       "pop bottle, soda bottle",
-      "pill bottle"
+      "pill bottle",
+      "whiskey jug"
     ],
     "imagenet_wnid": "n02876657",
     "shapenet_synset": "02876657"
@@ -174,7 +146,6 @@
       659,
       809
     ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
       "bowl",
       "soup bowl",
@@ -185,13 +156,10 @@
   },
   "bus": {
     "imagenet_class_indices": [
-      138,
-      375,
       654,
       779,
       874
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "bus",
       "school bus",
@@ -203,19 +171,15 @@
   },
   "cabinet": {
     "imagenet_class_indices": [
-      492,
       495,
       553,
-      648,
-      894
+      648
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "cabinet",
       "file, file cabinet, filing cabinet",
       "medicine chest, medicine cabinet",
-      "china cabinet, china closet",
-      "wardrobe, closet, press"
+      "china cabinet, china closet"
     ],
     "imagenet_wnid": "n02933112",
     "shapenet_synset": "02933112"
@@ -225,7 +189,6 @@
       732,
       759
     ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
       "camera",
       "Polaroid camera, Polaroid Land camera",
@@ -236,30 +199,8 @@
   },
   "can": {
     "imagenet_class_indices": [
-      40,
-      47,
-      49,
-      50,
-      87,
-      96,
-      122,
-      132,
-      137,
-      144,
-      180,
-      268,
-      275,
-      295,
-      386,
-      412,
-      470,
-      471,
-      472,
-      473,
-      653,
-      980
+      653
     ],
-    "imagenet_class_indices_count": 22,
     "imagenet_label_candidates": [
       "can",
       "milk can"
@@ -269,73 +210,51 @@
   },
   "cap": {
     "imagenet_class_indices": [
-      378,
       433,
       455,
       622,
-      793,
-      794,
-      842
+      793
     ],
-    "imagenet_class_indices_count": 7,
     "imagenet_label_candidates": [
       "cap",
       "bathing cap, swimming cap",
-      "shower cap"
+      "shower cap",
+      "lens cap, lens cover"
     ],
     "imagenet_wnid": "n02954340",
     "shapenet_synset": "02954340"
   },
   "car": {
     "imagenet_class_indices": [
-      264,
-      383,
-      403,
+      407,
       436,
       468,
-      474,
-      475,
-      476,
-      477,
-      478,
-      479,
       511,
-      565,
-      575,
-      603,
       609,
+      627,
       656,
       661,
-      684,
-      690,
-      705,
       717,
       734,
       751,
       757,
-      791,
-      817,
-      829,
-      864,
-      946,
-      959
+      817
     ],
-    "imagenet_class_indices_count": 31,
     "imagenet_label_candidates": [
       "car",
-      "automobile",
+      "ambulance",
+      "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
       "cab, hack, taxi, taxicab",
       "convertible",
+      "automobile",
       "sports car, sport car",
       "Model T",
       "minivan",
       "racer, race car, racing car",
-      "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
       "jeep, landrover",
+      "limousine, limo",
       "pickup, pickup truck",
-      "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",
-      "recreational vehicle, RV, R.V.",
-      "tow truck, tow car, wrecker"
+      "police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria"
     ],
     "imagenet_wnid": "n02958343",
     "shapenet_synset": "02958343"
@@ -347,7 +266,6 @@
       765,
       857
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "chair",
       "barber chair",
@@ -362,11 +280,8 @@
     "imagenet_class_indices": [
       409,
       530,
-      531,
-      825,
       892
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "clock",
       "analog clock",
@@ -378,15 +293,8 @@
   },
   "dishwasher": {
     "imagenet_class_indices": [
-      480,
-      534,
-      712,
-      786,
-      807,
-      886,
-      897
+      534
     ],
-    "imagenet_class_indices_count": 7,
     "imagenet_label_candidates": [
       "dishwasher, dish washer, dishwashing machine"
     ],
@@ -395,27 +303,17 @@
   },
   "display": {
     "imagenet_class_indices": [
-      508,
-      527,
-      556,
-      590,
-      664,
-      782,
-      904
+      782
     ],
-    "imagenet_class_indices_count": 7,
     "imagenet_label_candidates": [
       "display",
-      "monitor",
-      "screen, CRT screen",
-      "desktop computer"
+      "screen, CRT screen"
     ],
     "imagenet_wnid": "n03211117",
     "shapenet_synset": "03211117"
   },
   "earphone": {
     "imagenet_class_indices": [],
-    "imagenet_class_indices_count": 0,
     "imagenet_label_candidates": [
       "earphone",
       "headphone"
@@ -424,10 +322,7 @@
     "shapenet_synset": "03261776"
   },
   "faucet": {
-    "imagenet_class_indices": [
-      848
-    ],
-    "imagenet_class_indices_count": 1,
+    "imagenet_class_indices": [],
     "imagenet_label_candidates": [
       "faucet",
       "tap"
@@ -437,32 +332,18 @@
   },
   "file cabinet": {
     "imagenet_class_indices": [
-      495,
       553
     ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
-      "file cabinet",
-      "file, filing cabinet"
+      "file, file cabinet, filing cabinet"
     ],
     "imagenet_wnid": "n03337140",
     "shapenet_synset": "03337140"
   },
   "flowerpot": {
     "imagenet_class_indices": [
-      28,
-      344,
-      505,
-      521,
-      738,
-      739,
-      818,
-      849,
-      926,
-      935,
-      964
+      738
     ],
-    "imagenet_class_indices_count": 11,
     "imagenet_label_candidates": [
       "flowerpot",
       "pot"
@@ -472,13 +353,9 @@
   },
   "guitar": {
     "imagenet_class_indices": [
-      5,
       402,
-      545,
-      546,
-      547
+      546
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "guitar",
       "acoustic guitar",
@@ -490,25 +367,27 @@
   "helmet": {
     "imagenet_class_indices": [
       518,
-      560
+      560,
+      715
     ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
       "helmet",
       "crash helmet",
-      "football helmet"
+      "football helmet",
+      "pickelhaube"
     ],
     "imagenet_wnid": "n03513137",
     "shapenet_synset": "03513137"
   },
   "jar": {
     "imagenet_class_indices": [
-      510
+      438,
+      883
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "jar",
-      "container"
+      "beaker",
+      "vase"
     ],
     "imagenet_wnid": "n03593526",
     "shapenet_synset": "03593526"
@@ -516,11 +395,8 @@
   "keyboard": {
     "imagenet_class_indices": [
       508,
-      527,
-      590,
       878
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "keyboard",
       "computer keyboard, keypad",
@@ -531,13 +407,9 @@
   },
   "knife": {
     "imagenet_class_indices": [
-      473,
       499,
-      623,
-      700,
-      962
+      623
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "knife",
       "cleaver, meat cleaver, chopper",
@@ -548,12 +420,8 @@
   },
   "lamp": {
     "imagenet_class_indices": [
-      532,
-      619,
-      736,
       846
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "lamp",
       "table lamp"
@@ -563,15 +431,13 @@
   },
   "laptop": {
     "imagenet_class_indices": [
-      508,
-      527,
       590,
       620,
       681
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "laptop",
+      "hand-held computer, hand-held microcomputer",
       "laptop, laptop computer",
       "notebook, notebook computer"
     ],
@@ -582,7 +448,6 @@
     "imagenet_class_indices": [
       632
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "loudspeaker",
       "speaker",
@@ -593,12 +458,8 @@
   },
   "mailbox": {
     "imagenet_class_indices": [
-      37,
-      623,
-      637,
-      709
+      637
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "mailbox",
       "letter box"
@@ -608,12 +469,8 @@
   },
   "microphone": {
     "imagenet_class_indices": [
-      400,
-      650,
-      651,
-      917
+      650
     ],
-    "imagenet_class_indices_count": 4,
     "imagenet_label_candidates": [
       "microphone",
       "mic",
@@ -625,23 +482,8 @@
   "microwaves": {
     "alias_of": "mircowaves",
     "imagenet_class_indices": [
-      544,
       651
     ],
-    "imagenet_class_indices_count": 2,
-    "imagenet_label_candidates": [
-      "microwave",
-      "microwave oven"
-    ],
-    "imagenet_wnid": "n03761084",
-    "shapenet_synset": "03761084"
-  },
-  "mircowaves": {
-    "imagenet_class_indices": [
-      544,
-      651
-    ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
       "microwave",
       "microwave oven"
@@ -654,7 +496,6 @@
       665,
       670
     ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
       "motorbike",
       "motorcycle",
@@ -668,7 +509,6 @@
     "imagenet_class_indices": [
       504
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "mug",
       "coffee mug"
@@ -681,7 +521,6 @@
       579,
       881
     ],
-    "imagenet_class_indices_count": 2,
     "imagenet_label_candidates": [
       "piano",
       "grand piano, grand",
@@ -694,7 +533,6 @@
     "imagenet_class_indices": [
       721
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "pillow"
     ],
@@ -705,7 +543,6 @@
     "imagenet_class_indices": [
       763
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "pistol",
       "handgun",
@@ -718,7 +555,6 @@
     "imagenet_class_indices": [
       742
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "printer"
     ],
@@ -729,7 +565,6 @@
     "imagenet_class_indices": [
       761
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "remote",
       "remote control"
@@ -740,10 +575,8 @@
   "rifle": {
     "imagenet_class_indices": [
       413,
-      764,
-      927
+      764
     ],
-    "imagenet_class_indices_count": 3,
     "imagenet_label_candidates": [
       "rifle",
       "assault rifle, assault gun"
@@ -755,11 +588,8 @@
     "imagenet_class_indices": [
       657,
       744,
-      810,
-      811,
       812
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "rocket",
       "missile",
@@ -771,7 +601,6 @@
   },
   "skateboard": {
     "imagenet_class_indices": [],
-    "imagenet_class_indices_count": 0,
     "imagenet_label_candidates": [
       "skateboard"
     ],
@@ -782,7 +611,6 @@
     "imagenet_class_indices": [
       831
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "sofa",
       "couch",
@@ -795,7 +623,6 @@
     "imagenet_class_indices": [
       827
     ],
-    "imagenet_class_indices_count": 1,
     "imagenet_label_candidates": [
       "stove"
     ],
@@ -804,13 +631,13 @@
   },
   "table": {
     "imagenet_class_indices": [
+      526,
       532,
-      736,
-      846
+      736
     ],
-    "imagenet_class_indices_count": 3,
     "imagenet_label_candidates": [
       "table",
+      "desk",
       "dining table, board",
       "pool table, billiard table, snooker table"
     ],
@@ -821,11 +648,8 @@
     "imagenet_class_indices": [
       487,
       528,
-      650,
-      660,
       707
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "telephone",
       "phone",
@@ -838,17 +662,9 @@
   },
   "tower": {
     "imagenet_class_indices": [
-      20,
-      58,
-      221,
-      346,
       437,
-      898,
-      899,
-      900,
-      920
+      900
     ],
-    "imagenet_class_indices_count": 9,
     "imagenet_label_candidates": [
       "tower",
       "water tower",
@@ -859,65 +675,34 @@
   },
   "train": {
     "imagenet_class_indices": [
-      5,
-      251,
       466,
-      475,
-      479,
-      545,
-      546,
       547,
-      565,
-      705,
-      817,
-      820,
-      828,
-      829,
-      874
+      820
     ],
-    "imagenet_class_indices_count": 15,
     "imagenet_label_candidates": [
       "train",
       "electric locomotive",
       "steam locomotive",
-      "bullet train, bullet",
-      "passenger car, coach, carriage",
-      "freight car",
-      "streetcar, tram, tramcar, trolley, trolley car",
-      "dalmatian, coach dog, carriage dog",
-      "trolleybus, trolley coach, trackless trolley"
+      "bullet train, bullet"
     ],
     "imagenet_wnid": "n04468005",
     "shapenet_synset": "04468005"
   },
   "trash bin": {
     "imagenet_class_indices": [
-      412,
-      427,
-      473,
-      569,
-      653,
-      756
+      412
     ],
-    "imagenet_class_indices_count": 6,
     "imagenet_label_candidates": [
       "trash bin",
-      "garbage bin",
-      "trash can",
-      "ashcan, garbage can, wastebin, dustbin, trash barrel"
+      "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin"
     ],
     "imagenet_wnid": "n02747177",
     "shapenet_synset": "02747177"
   },
   "washer": {
     "imagenet_class_indices": [
-      480,
-      534,
-      786,
-      886,
       897
     ],
-    "imagenet_class_indices_count": 5,
     "imagenet_label_candidates": [
       "washer",
       "washing machine",
@@ -928,20 +713,19 @@
   },
   "watercraft": {
     "imagenet_class_indices": [
-      405,
-      449,
       472,
       484,
       510,
       554,
       576,
       625,
+      628,
+      724,
       780,
       814,
       833,
       914
     ],
-    "imagenet_class_indices_count": 12,
     "imagenet_label_candidates": [
       "watercraft",
       "boat",
@@ -955,7 +739,9 @@
       "container ship, containership, container vessel",
       "submarine, pigboat, sub, U-boat",
       "yawl",
-      "schooner"
+      "schooner",
+      "pirate ship",
+      "liner, ocean liner"
     ],
     "imagenet_wnid": "n04530566",
     "shapenet_synset": "04530566"
